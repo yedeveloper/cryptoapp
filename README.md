@@ -16,7 +16,7 @@ The process to run the project is:
 
 - Clone the repository
 - Enter to project directory (`cd cryptoapp`)
-- Run npm install command
+- Run `npm install` command
 
 If you are running the process in Android then run `npm run android`
 If you are running the process in iOS you must execute the command `pod-install` and then `npm run ios`
