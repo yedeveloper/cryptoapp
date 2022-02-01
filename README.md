@@ -5,12 +5,12 @@ The project is created with React Native and Typescript. The versions required a
 Node: v16.13.2
 npm: v8.1.2
 
-##Prerequisites
+## Prerequisites
 
 To run the project in Android you must have installed the Android SDK and configured the global variables
 To run the project in iOS you must have Xcode
 
-##Process to run
+## Process to run
 
 The process to run the project is:
 
